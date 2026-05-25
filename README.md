@@ -11,7 +11,7 @@
 ###
 ### 
 
-### >>> Hey there, my name is Guilherme Reis.
+>>> Hey there, my name is Guilherme Reis.
 
 # --< ABOUT >--------------- ------- -- --- --- --------- --- ---- - --- -  -    - 
 
